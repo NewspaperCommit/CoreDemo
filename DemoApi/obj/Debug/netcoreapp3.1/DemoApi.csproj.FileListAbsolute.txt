@@ -1,0 +1,506 @@
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+E:\CSharp code\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+E:\CSharp code\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+G:\Project\Demo\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+G:\Project\Demo\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\appsettings.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.exe
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.deps.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.runtimeconfig.dev.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\DemoApi.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\log4net.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Cors.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Web.Http.Cors.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csprojAssemblyReference.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfoInputs.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.AssemblyInfo.cs
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CoreCompileInputs.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cs
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.MvcApplicationPartsAssemblyInfo.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.RazorTargetAssemblyInfo.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.csproj.CopyComplete
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.Manifest.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\staticwebassets\DemoApi.StaticWebAssets.xml
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\DemoApi\obj\Debug\netcoreapp3.1\DemoApi.genruntimeconfig.cache

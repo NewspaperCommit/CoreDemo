@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{E8536297-B5F0-46B4-936D-F860EC04F97D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewspaperArchive.Application", "..\NewspaperArchive.Application\NewspaperArchive.Application.csproj", "{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewspaperArchive.Domain", "..\NewspaperArchive.Domain\NewspaperArchive.Domain.csproj", "{140D39A4-7E3C-41A4-8321-299A8CA3F4A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewspaperArchive.Infrastructure", "..\NewspaperArchive.Infrastructure\NewspaperArchive.Infrastructure.csproj", "{1E5E84A9-D417-4BD8-9392-B13CA200A0C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F3358EE4-2B19-4271-979A-5752FEE108A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewspaperArchiveApi", "..\DemoApi\NewspaperArchiveApi.csproj", "{31959282-9BEE-4B12-9E9B-0E0F3F87D3D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140D39A4-7E3C-41A4-8321-299A8CA3F4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140D39A4-7E3C-41A4-8321-299A8CA3F4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140D39A4-7E3C-41A4-8321-299A8CA3F4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140D39A4-7E3C-41A4-8321-299A8CA3F4A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5E84A9-D417-4BD8-9392-B13CA200A0C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5E84A9-D417-4BD8-9392-B13CA200A0C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5E84A9-D417-4BD8-9392-B13CA200A0C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5E84A9-D417-4BD8-9392-B13CA200A0C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31959282-9BEE-4B12-9E9B-0E0F3F87D3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31959282-9BEE-4B12-9E9B-0E0F3F87D3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31959282-9BEE-4B12-9E9B-0E0F3F87D3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31959282-9BEE-4B12-9E9B-0E0F3F87D3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{615AFA5E-33AE-4C2B-BAF0-D49BB2AB9E41} = {E8536297-B5F0-46B4-936D-F860EC04F97D}
+		{140D39A4-7E3C-41A4-8321-299A8CA3F4A9} = {E8536297-B5F0-46B4-936D-F860EC04F97D}
+		{1E5E84A9-D417-4BD8-9392-B13CA200A0C3} = {E8536297-B5F0-46B4-936D-F860EC04F97D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7921A38-EC67-480D-ADB0-E6675B17C1F9}
+	EndGlobalSection
+EndGlobal

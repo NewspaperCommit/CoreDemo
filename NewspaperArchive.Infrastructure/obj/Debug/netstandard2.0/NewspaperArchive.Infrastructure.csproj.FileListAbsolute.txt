@@ -1,0 +1,112 @@
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.deps.json
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Application.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\bin\Debug\netstandard2.0\NewspaperArchive.Domain.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csprojAssemblyReference.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfoInputs.cache
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.AssemblyInfo.cs
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CopyComplete
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\Prakash\sharedbyprakash29dec\DemoAssignment\NewspaperArchive.Infrastructure\obj\Debug\netstandard2.0\NewspaperArchive.Infrastructure.csproj.CoreCompileInputs.cache

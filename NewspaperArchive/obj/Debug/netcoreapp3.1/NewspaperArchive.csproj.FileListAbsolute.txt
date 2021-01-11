@@ -1,0 +1,534 @@
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\Aashish\Aashish\FinalCA\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+E:\DayUser\Aashish\NewspaperWebsiteCore\Main\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+E:\CSharp code\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\Prakash Majhi\New folder\New folder\New folder\New folder\DemoAssignment\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+G:\Project\Demo\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\reactdemoproj\DemoAssignment2\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.config
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.exe
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.deps.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.runtimeconfig.dev.json
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\log4net.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Application.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Infrastructure.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\bin\Debug\netcoreapp3.1\NewspaperArchive.Domain.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csprojAssemblyReference.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfoInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.AssemblyInfo.cs
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CoreCompileInputs.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cs
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.MvcApplicationPartsAssemblyInfo.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.RazorTargetAssemblyInfo.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.csproj.CopyComplete
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.Manifest.cache
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\staticwebassets\NewspaperArchive.StaticWebAssets.xml
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.dll
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.pdb
+D:\Prakash Majhi\17-12-2020\23Dec_api\23Dec_api\DemoAssignment\NewspaperArchive\obj\Debug\netcoreapp3.1\NewspaperArchive.genruntimeconfig.cache
